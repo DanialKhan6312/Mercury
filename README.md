@@ -1,5 +1,5 @@
 # Mercury
 The first and only SMS based medical info center.
-#Overview
+# Overview
 Mercury works to service the population of the world that has access to mobile services but not a reliable internet connection. The Goal of Mercury is to use SMS to deliver a convenient medical search app to anyone in the world even without the luxury of an internet connection. Using APIs such as Twilio, Endlessmedicine, and BeautifulSoup, Mercury uses a Python Flask Backend server to process the incoming SMS data and scan the web using a BeautifulSoup web scrapper. This info is then summarized using a Natural Language Processing import and returns concise information on possible conditions faced by the user. The reason we believe Mercury is an important innovation is that medical care is not readily assessable everywhere and may come at a high price for our intended users. Mercury offers the ability to get an automated prediction that can be used to indicate if something is serious enough to see a doctor if necessary. Our app provides information and in today's day and age information can save lives.
 
